@@ -1,2 +1,5 @@
 # pagetry.io
-try repo for checking GitHub Pages functionality
+Page try is not what you think it is, it is all about learning customization
+. hello
+. bye
+.by by
